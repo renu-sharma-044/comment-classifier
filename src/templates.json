@@ -1,0 +1,11 @@
+{
+  "praise": "Thank you so much! Your appreciation means a lot to our team.",
+  "support": "Thanks a lot for the encouragement! We truly appreciate it.",
+  "constructive": "Thanks for the feedback! We will surely work on improving this.",
+  "hate": "We’re sorry you feel this way. Please share more details so we can assist.",
+  "threat": "Your message has been noted. We take such reports seriously.",
+  "emotional": "Thank you for sharing your feelings with us. It means a lot.",
+  "spam": "This comment appears to be promotional/spam.",
+  "question": "Thanks for your question! Here's a helpful answer: [add answer]"
+}
+
